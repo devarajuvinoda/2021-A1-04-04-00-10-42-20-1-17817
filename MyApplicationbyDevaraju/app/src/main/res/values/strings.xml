@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application by Devaraju</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="button_send">SEND</string>
+    <string name="button_confirm">CONFIRM</string>
+    <string name="hint_phone_email">Enter a phone numbe or an email address</string>
+    <string name="voice_input">VOICE INPUT</string>
+</resources>
