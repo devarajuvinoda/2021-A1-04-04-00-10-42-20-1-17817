@@ -72,7 +72,6 @@ public class SecondActivity extends AppCompatActivity {
 
     public void validatePhoneEmail(View view) {
         String message = email_phone.getText().toString();
-        String err_msg="err";
 
         if(validEmail(message)){
             // create an intent to call email client
